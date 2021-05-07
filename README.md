@@ -1,7 +1,8 @@
 ### -Hello there 👋
 ### -General Kenobi! 
-- 🔭 I’m working on The School of Wolf in Caer Morhen castle(Kaedwen kingdom)
-- 💬 Ask me about "The Witcher" and "The Witcher 3: Wild Hunt"
+- 🔭 I’m working on 🐺 The School of Wolf 🐺 in Caer Morhen castle(Kaedwen kingdom) (joke)
+- 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
+- ¯\_(ツ)_/¯
 
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
