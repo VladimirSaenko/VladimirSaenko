@@ -4,6 +4,10 @@
 - 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
 - ¯\_(ツ)_/¯
 
+![ra](https://user-images.githubusercontent.com/56477695/117564940-69796800-b0b7-11eb-9673-b974084cb55d.gif)
+
+![sleep](https://user-images.githubusercontent.com/56477695/117564943-6ed6b280-b0b7-11eb-9c2c-703d7c19d515.gif)
+
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
