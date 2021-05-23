@@ -4,9 +4,13 @@
 - 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
 - ¯\_(ツ)_/¯
 
+![witcher2](https://user-images.githubusercontent.com/56477695/119254437-fd225c80-bbbe-11eb-887f-b1928783547e.gif)
+
 ![ra](https://user-images.githubusercontent.com/56477695/117564940-69796800-b0b7-11eb-9673-b974084cb55d.gif)
 
 ![sleep](https://user-images.githubusercontent.com/56477695/117564943-6ed6b280-b0b7-11eb-9c2c-703d7c19d515.gif)
+
+![witcher](https://user-images.githubusercontent.com/56477695/119254440-01e71080-bbbf-11eb-8b35-0299054de2ef.gif)
 
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
