@@ -2,7 +2,7 @@
 ### -General Kenobi! 
 - 🔭 I’m working on 🐺 The School of Wolf 🐺 in Caer Morhen castle(Kaedwen kingdom)
 - 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
-- ¯\_(ツ)_/¯
+- ツ   ( ͡° ͜ʖ ͡°)
 
 ![witcher2](https://user-images.githubusercontent.com/56477695/119254437-fd225c80-bbbe-11eb-887f-b1928783547e.gif)
 
