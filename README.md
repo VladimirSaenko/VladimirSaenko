@@ -1,5 +1,5 @@
-### - Hello there! 👋
-### - General Kenobi! 
+### - Hello There! 👋
+### - General Kenobi! 👋👋
 - ### 🎮 I’m working on 🐺 The School of Wolf 🐺 in Caer Morhen castle (Kaedwen kingdom)
 - ### 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
 - ### ツ
