@@ -1,7 +1,7 @@
 ### - Hello There! 👋
 ### - General Kenobi! 👋👋
-- ### 🎮 I’m working on 🐺 The School of Wolf 🐺 in Caer Morhen castle (Kaedwen kingdom)
-- ### 💬 Ask me about "The Witcher 🐺" and "🐺 The Witcher 3: Wild Hunt 🐺"
+- ### 🎮 I’m working in Caer Morhen castle (Kaedwen kingdom)
+- ### 💬 Ask me about "The Witcher" and "The Witcher 3: Wild Hunt"
 - ### ツ
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirSaenko&layout=compactshow_icons=true&theme=midnight-purple)
