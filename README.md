@@ -3,6 +3,7 @@
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi, I’m @switcherwow240
 - ### 🎮 I’m working in Caer Morhen castle (Kaedwen kingdom) 🐺
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
+- ### ❤ I’m looking to collaborate on ...
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p>
 
