@@ -9,6 +9,26 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
 
+<p align="center">
+<a href="https://github.com/VladimirSaenko/Portfolio-3">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vladimirSaenko&repo=Portfolio-3&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/VladimirSaenko/Portfolio-2">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VladimirSaenko&repo=Portfolio-2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/VladimirSaenko/Among-Us-Space-Scene">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VladimirSaenko&repo=Among-Us-Space-Scene&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/VladimirSaenko/SVG-Gibson-Les-Paul">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VladimirSaenko&repo=SVG-Gibson-Les-Paul&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+</a>
+</p>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirSaenko&layout=compactshow_icons=true&theme=midnight-purple) -->
 
 <!--
