@@ -8,14 +8,14 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p>
 
-<hr>
+<!-- <hr>
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{VladimirSaenko}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{VladimirSaenko}/count.svg)  
   
 </a>
-<hr>
+<hr> -->
 
 ## 3D Model GitHub contributions in 2021 year
 
