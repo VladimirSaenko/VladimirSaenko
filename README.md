@@ -4,9 +4,18 @@
 - ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom)
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
 
-<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p> -->
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p>
+
+<hr>
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{VladimirSaenko}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{VladimirSaenko}/count.svg)  
+  
+</a>
+<hr>
 
 ## 3D Model GitHub contributions in 2021 year
 
