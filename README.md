@@ -2,6 +2,8 @@
 - ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom)
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F752&lines=Hello+there%2C+I+am+witcherwow240!+;I+am+a+future+Front-End+Developer+)](https://git.io/typing-svg)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
 
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p> -->
