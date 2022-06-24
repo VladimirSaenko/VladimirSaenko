@@ -2,7 +2,7 @@
 - ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom) or assassins fortress Masiaf🏰
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
 - ### 💬 Ask me about "The Assassins Creed"
-- ### 🎸 Play to guitar 🎸
+- ### 🎸 Playing in guitar 🎸
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F752&lines=Hello+there%2C+I+am+witcherwow240!+;I+am+a+future+Front-End+Developer+)](https://git.io/typing-svg) -->
 
