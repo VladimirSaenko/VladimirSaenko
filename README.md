@@ -8,7 +8,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
 
-<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p> -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VladimirSaenko&no-bg=true&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies"/></p>
 
 ## 3D Model GitHub contributions in 2021 year
 
