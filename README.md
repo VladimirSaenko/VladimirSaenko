@@ -10,7 +10,7 @@
 - ### CSS
 - ### React
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F752&lines=Hello+there%2C+I+am+witcherwow240!+;I+am+a+future+Front-End+Developer+)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F752&lines=Hello+there%2C+I+am+witcherwow240!+;I+am+a+future+Front-End+Developer+)](https://git.io/typing-svg)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
 
