@@ -1,7 +1,6 @@
 # Hi, I’m @witcherwow240 🐺 
-- ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom) or assassins fortress Masiaf🏰
+- ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom)
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
-- ### 💬 Ask me about "The Assassins Creed"
 - ### 🎸 Playing in guitar 🎸
 
 ## 🛠 Skills
