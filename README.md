@@ -9,8 +9,6 @@
 - ### CSS
 - ### React
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirSaenko&theme=tokyonight" alt="streaks"/></p>
-
 ## 3D Model GitHub contributions in 2021 year
 
 ## https://skyline.github.com/VladimirSaenko/2021
