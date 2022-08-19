@@ -3,12 +3,6 @@
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
 - ### 🎸 Playing in guitar 🎸
 
-## 🛠 Skills
-- ### Javascript
-- ### HTML
-- ### CSS
-- ### React
-
 ## 3D Model GitHub contributions in 2021 year
 
 ## https://skyline.github.com/VladimirSaenko/2021
@@ -28,4 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🛠 Skills
+- ### Javascript
+- ### HTML
+- ### CSS
+- ### React
 -->
