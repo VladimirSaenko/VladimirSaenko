@@ -1,15 +1,12 @@
 # Hi, I’m @witcherwow240 🐺 
-- ### 💻⌨️🖱️ I’m working in Caer Morhen castle 🏰 (Kaedwen kingdom)
-- ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
-- ### 🎸 Playing in guitar 🎸
 
 ## 3D Model GitHub contributions in 2021 year
 
-## https://skyline.github.com/VladimirSaenko/2021
+### https://skyline.github.com/VladimirSaenko/2021
 
 ## 3D Model GitHub contributions in 2022 year
 
-## https://skyline.github.com/VladimirSaenko/2022
+### https://skyline.github.com/VladimirSaenko/2022
 
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +23,6 @@ Here are some ideas to get you started:
 - ### Javascript
 - ### HTML
 - ### CSS
-- ### React
+ ### 🎸 Playing in guitar 🎸
+- ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
 -->
