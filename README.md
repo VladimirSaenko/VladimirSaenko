@@ -8,6 +8,8 @@
 
 ### https://skyline.github.com/VladimirSaenko/2022
 
+![github-user-contribution](https://user-images.githubusercontent.com/56477695/204483516-0544a08e-733a-4e70-8e9d-cfd3d78f6012.svg)
+
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
