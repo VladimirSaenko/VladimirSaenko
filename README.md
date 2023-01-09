@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 - ### CSS
  ### 🎸 Playing in guitar 🎸
 - ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
-![github-user-contribution](https://user-images.githubusercontent.com/56477695/204483516-0544a08e-733a-4e70-8e9d-cfd3d78f6012.svg)
 -->
