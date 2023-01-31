@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ### HTML
 - ### CSS
  ### 🎸 Playing in guitar 🎸
-- ### 💬 Ask me about "The Witcher 🐺" and "The Witcher 3: Wild Hunt 🐺"
+- ### 💬 Ask me about "The Witcher 🐺"
 -->
