@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## 🛠 Skills
-- ### Javascript
-- ### HTML
-- ### CSS
+
  ### 🎸 Playing in guitar 🎸
 - ### 💬 Ask me about "The Witcher 🐺"
 -->
