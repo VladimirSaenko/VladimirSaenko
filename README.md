@@ -1,10 +1,6 @@
-# Hi, I’m @witcherwow240 🐺 
-
-## 3D Model GitHub contributions in 2021 year
+# Hi, I’m @witcherwow240
 
 ### https://skyline.github.com/VladimirSaenko/2021
-
-## 3D Model GitHub contributions in 2022 year
 
 ### https://skyline.github.com/VladimirSaenko/2022
 
