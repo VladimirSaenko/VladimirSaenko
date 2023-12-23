@@ -1,9 +1,5 @@
 # Hi, I’m @witcherwow240
 
-### https://skyline.github.com/VladimirSaenko/2021
-
-### https://skyline.github.com/VladimirSaenko/2022
-
 <!--
 **VladimirSaenko/VladimirSaenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
